@@ -1,0 +1,28 @@
+.product{
+    margin: auto;
+    text-align: center;   
+    padding: auto;
+}
+.product h3{
+    font-style: italic;
+    font-weight: 800;
+    font-size: x-large;
+}
+.product p{
+    background-color: lavenderblush;
+    border-radius: 5px;
+    font-size: larger;
+}
+.product img{
+    border-radius: 5px;
+}
+h1{
+    font-weight: 900;
+    font-size: xx-large;
+    font-style: italic;
+    background-color: lavenderblush;
+    margin: 20px;
+    text-align: center;
+    border-radius: 5px;
+    padding: 5px;
+}
